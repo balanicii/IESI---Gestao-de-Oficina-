@@ -4,16 +4,26 @@ Criação: 2026-10-12
 
 (Diagrama de caso de uso) 
 
-(Nome do caso de uso)
+Sistema de Gestão de uma Pequena Oficina
 
 
+Descrição do problema:
 
-(Descrição da situação)
+O projeto consiste no desenvolvimento de um sistema informático para apoiar a gestão de uma pequena oficina, constituída por 10 funcionários e 5 máquinas.
+
+O funcionamento da oficina depende da correta organização dos recursos humanos e dos equipamentos disponíveis.
+
+Cada máquina necessita de manutenção periódica, de forma a garantir a sua fiabilidade, reduzir a ocorrência de avarias e evitar interrupções inesperadas no trabalho.
+
+Por outro lado, os funcionários necessitam de horários organizados e de uma distribuição adequada pelas máquinas, tendo em conta a sua disponibilidade e as tarefas a realizar.
 
 
 
 (Pré-condições)
 
+Desenvolver uma aplicação que permita ao responsável da oficina gerir os funcionários, controlar o estado das máquinas, planear manutenções e organizar os horários de trabalho através de um calendário.
+
+O sistema deverá evitar conflitos na utilização dos equipamentos, facilitar o planeamento das tarefas e melhorar a organização geral da oficina.
 
 
 (Ativação de eventos) 
