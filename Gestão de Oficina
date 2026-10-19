@@ -1,6 +1,6 @@
 Autor: Alexandru Balanici e Rodrigo Silva
 Criação: 2026-10-12
-Última revisão: 2026-10-12
+Última revisão: 2026-10-19
 
 (Diagrama de caso de uso) 
 
@@ -17,6 +17,7 @@ Cada máquina necessita de manutenção periódica, de forma a garantir a sua fi
 
 Por outro lado, os funcionários necessitam de horários organizados e de uma distribuição adequada pelas máquinas, tendo em conta a sua disponibilidade e as tarefas a realizar.
 
+Também será necessário encomendar e gerir a gestão de stock de equipamento dos trabalhadores. Pregos, chaves de fendas, alicates e fitas métricas. 
 
 
 (Pré-condições)
